@@ -2,7 +2,7 @@ package com.dlq.demo1;
 
 /**
  *@program: Algorithm_DataStructures
- *@description: 反转链表
+ *@description: 反转链表---迭代
  *@author: Hasee
  *@create: 2021-05-23 13:52
  */

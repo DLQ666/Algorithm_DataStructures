@@ -8,8 +8,8 @@ package com.dlq.demo1;
  *@create: 2021-05-23 14:00
  */
 public class ListNode {
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
     public ListNode(int val, ListNode next) {
         this.val = val;
